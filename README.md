@@ -13,3 +13,8 @@ https://github.com/PLGuerraDesigns/cg-raining-cats-and-dogs/blob/main/report.pdf
 ### Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/PLGuerraDesigns/cg-raining-cats-and-dogs/main/screenshot.png)
+
+### Demo Video
+
+https://github.com/user-attachments/assets/fc67e77c-1096-4928-ad28-522c0d592221
+
